@@ -1,0 +1,22 @@
+{
+  "name": "js-backend-development",
+  "version": "1.0.0",
+  "description": "The Js BackDevelopment Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "Code",
+    "With",
+    "JavaScript",
+    "ReactJS",
+    "MongoDb",
+    "NodeJs",
+    "and",
+    "ExpressJs"
+  ],
+  "author": "Parth Suthar",
+  "license": "ISC"
+}
